@@ -33,5 +33,16 @@
                 "path": "./themes/OnlyDarkGreen-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "/img/dark.png",
+    "author": {
+        "name": "Yes Dev",
+        "email": "yesdev19@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/yesomac/only_dark.git",
+        "type": "git"
+    },
+    "publisher": "YesCode",
+    "license": "MIT"
 }
