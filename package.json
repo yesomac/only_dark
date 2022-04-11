@@ -34,7 +34,7 @@
             }
         ]
     },
-    "icon": "/img/dark.png",
+    "icon": "img/dark.png",
     "author": {
         "name": "Yes Dev",
         "email": "yesdev19@gmail.com"
