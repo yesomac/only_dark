@@ -1,0 +1,37 @@
+{
+    "name": "only-dark",
+    "displayName": "only_dark",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "keywords": [
+        "Themes",
+        "OnlyDark",
+        "OnlyDark Brown Orange",
+        "OnlyDark Green"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OnlyDark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDark-color-theme.json"
+            },
+            {
+                "label": "OnlyDarkOrange",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDarkBrownOrange-color-theme.json"
+            },
+            {
+                "label": "OnlyDarkGreen",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDarkGreen-color-theme.json"
+            }
+        ]
+    }
+}
