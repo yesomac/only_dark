@@ -11,7 +11,7 @@
     "editorGroupHeader.tabsBackground": "#08090a",
     "editor.selectionBackground": "#000",
     "editor.inactiveSelectionBackground": "#000",
-    "editor.lineHighlightBackground": "#141414",
+    "editor.lineHighlightBackground": "#000",
     "editorIndentGuide.activeBackground": "#a0a0a071",
     "editor.findMatchBackground": "#0fe9582a",
     "editor.findMatchHighlightBackground": "#141414",
