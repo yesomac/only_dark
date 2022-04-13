@@ -9,6 +9,7 @@
     "keywords": [
         "Themes",
         "OnlyDark",
+        "OnlyDarkLight",
         "OnlyDark Brown Orange",
         "OnlyDark Green"
     ],
@@ -21,6 +22,11 @@
                 "label": "OnlyDark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDark-color-theme.json"
+            },
+            {
+                "label": "OnlyDarkLight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDarkLight-color-theme.json"
             },
             {
                 "label": "OnlyDarkOrange",
