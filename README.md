@@ -16,4 +16,7 @@ Only Dark BrownOrange
 ![This is an Image](https://github.com/yesomac/only_dark/blob/main/only_darkorange.png?raw=true)
 
 Only Dark BlueHaze
+![This is an Image](https://github.com/yesomac/only_dark/blob/main/only-dark-blue.png?raw=true)
+
+
 ![This is an Image](https://github.com/yesomac/only_dark/blob/main/only-dark-bluee.png?raw=true)
