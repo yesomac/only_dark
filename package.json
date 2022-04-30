@@ -1,6 +1,6 @@
 {
     "name": "only-dark-theme",
-    "displayName": "only_dark-theme",
+    "displayName": "Only Dark Theme",
     "description": "",
     "version": "0.0.2",
     "engines": {
@@ -11,7 +11,8 @@
         "OnlyDark",
         "OnlyDarkLight",
         "OnlyDark Brown Orange",
-        "OnlyDark Green"
+        "OnlyDark Green",
+        "OnlyDarkBlueHaze"
     ],
     "categories": [
         "Themes"
@@ -22,6 +23,11 @@
                 "label": "OnlyDark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDark-color-theme.json"
+            },
+            {
+                "label": "OnlyDarkII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDarkII-color-theme.json"
             },
             {
                 "label": "OnlyDarkLight",
@@ -37,6 +43,11 @@
                 "label": "OnlyDarkGreen",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkGreen-color-theme.json"
+            },
+            {
+                "label": "OnlyDarkBlueHaze",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDarkBlueHaze-color-theme.json"
             }
         ]
     },

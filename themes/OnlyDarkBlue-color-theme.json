@@ -2,68 +2,68 @@
 	"name": "OnlyDark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#160c03",
+		"editor.background": "#1b2125",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#141414",
+		"activityBarBadge.background": "#272d35",
 		"sideBarTitle.foreground": "#bbbbbb",
 
 		"editorLineNumber.foreground": "#dddddd52",
-		"editorLineNumber.activeForeground": "#ddd",
-		"editorGroupHeader.tabsBackground": "#160c03",
-		"editor.selectionBackground": "#331605b9",
-		"editor.inactiveSelectionBackground": "#331605b9",
-		"editor.lineHighlightBackground": "#3316056b",
+		"editorLineNumber.activeForeground": "#a7bad1",
+		"editorGroupHeader.tabsBackground": "#161a1d",
+		"editor.selectionBackground": "#141414",
+		"editor.inactiveSelectionBackground": "#141414",
+		"editor.lineHighlightBackground": "#272d35",
 		"editorIndentGuide.activeBackground": "#a0a0a071",
 		"editor.findMatchBackground": "#0fe9582a",
-		"editor.findMatchHighlightBackground": "#8b380883",
-		"editorWidget.background":"#160c03",
-		"editorSuggestWidget.background": "#160c03",
-		"editorSuggestWidget.selectedBackground": "#331605b9",
+		"editor.findMatchHighlightBackground": "#141414",
+		"editorWidget.background":"#08090a",
+		"editorSuggestWidget.background": "#23282f",
+		"editorSuggestWidget.selectedBackground": "#141414a9",
 
-		"activityBar.background": "#160c03",
+		"activityBar.background": "#161a1d",
 		"activityBar.foreground": "#ddd",
 		"titleBar.activeForeground": "#ddd",
 		"activityBarBadge.foreground": "#ddd",
 
-		"sideBar.background": "#0f0801",
-		"statusBar.background": "#160c03",
-		"statusBar.noFolderBackground": "#141414",
-		"statusBar.debuggingBackground": "#5003f7",
-		"sideBarSectionHeader.background": "#0f0801",
-		"sideBarSectionHeader.foreground": "#fff",
+		"sideBar.background": "#272d35",
+		"statusBar.background": "#011630",
+		"statusBar.noFolderBackground": "#0a2344",
+		"statusBar.debuggingBackground": "#141414",
+		"sideBarSectionHeader.background": "#161a1d",
+		"sideBarSectionHeader.foreground": "#ddd",
 
 		"badge.background": "#686867",
 		
-		"menu.background": "#0f0801",
-		"tab.activeBackground": "#301903",
-		"tab.inactiveBackground": "#0f0801",
-		"tab.hoverBackground": "#0f0801",
-		"tab.border": "#0f0801",
-		"tab.activeBorderTop": "#f88b0f",
+		"menu.background": "#1b2125",
+		"tab.activeBackground": "#1b2125",
+		"tab.inactiveBackground": "#161a1d",
+		"tab.hoverBackground": "#08090a",
 
-		"titleBar.activeBackground": "#0f0801",
+		"titleBar.activeBackground": "#1b2125",
 		
-		"input.background": "#0f0801",
-		"input.border": "#0f0801",
+		"input.background": "#141414",
+		"input.border": "#000",
 		"input.placeholderForeground": "#fff",
 		"focusBorder": "#110b1b",
 
-		"button.background": "#0f0801",
+		"button.background": "#08090a",
 
-		"tab.activeBorder": "#0f0801",
+		"tab.activeBorder": "#1b2125",
+		"tab.activeBorderTop": "#1b2125",
+		"tab.border": "#161a1d",
 		"tab.activeForeground": "#fff5e3",
 		
-		"notifications.background": "#0f0801",
-		"quickInput.background": "#0f0801",
+		"notifications.background": "#161a1d",
+		"quickInput.background": "#161a1d",
 		
-		"list.hoverBackground": "#331605b9",
-		"list.inactiveSelectionBackground": "#200d02b9",
+		"list.hoverBackground": "#161a1dd3",
+		"list.inactiveSelectionBackground": "#0f1316",
 
-		"settings.textInputBackground": "#1a0a01b9",
-		"settings.checkboxBackground": "#200d02b9",
-		"settings.dropdownBackground": "#0e0601b9",
+		"settings.textInputBackground": "#08090a",
+		"settings.checkboxBackground": "#08090a",
+		"settings.dropdownBackground": "#08090a",
 		
-		"terminal.background": "#0f0801",
+		"terminal.background": "#23282f",
 		"terminal.foreground": "#fce5ba",
 		"terminal.ansiBlack": "#1D2021",
 		"terminal.ansiBrightBlack": "#665C54",
@@ -82,9 +82,9 @@
 		"terminal.ansiWhite": "#A89984",
 		"terminal.ansiYellow": "#FAC03B",
 		
-		"editor.hoverHighlightBackground": "#331605b9",
-		"editorHoverWidget.background": "#331605b9",
-		"list.activeSelectionBackground": "#331605b9"
+		"editor.hoverHighlightBackground": "#23282f",
+		"editorHoverWidget.background": "#1f2630",
+		"list.activeSelectionBackground": "#222831"
 	},
 	"tokenColors": [
 		{
@@ -95,7 +95,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#a89677cb"
+				"foreground": "#dddddd2f"
 			}
 		},
 		{
@@ -105,7 +105,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#ff8000"
+				"foreground": "#FFFF00"
 			}
 		},
 		{
@@ -179,7 +179,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#f70a2a"
+				"foreground": "#0af794"
 			}
 		},
 		{
