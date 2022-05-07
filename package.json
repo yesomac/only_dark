@@ -12,7 +12,11 @@
         "OnlyDarkLight",
         "OnlyDark Brown Orange",
         "OnlyDark Green",
-        "OnlyDarkBlueHaze"
+        "OnlyDarkBlueHaze",
+        "OnlyDarkPurple",
+        "OnlyDarkCoffee",
+        "OnlyDarkCoffeeII",
+        "OnlyDarkGreenishBlue"
     ],
     "categories": [
         "Themes"
@@ -48,6 +52,26 @@
                 "label": "OnlyDarkBlueHaze",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkBlueHaze-color-theme.json"
+            },
+            {
+                "label": "OnlyDarkPurple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDarkPurple-color-theme.json"
+            },
+            {
+                "label": "OnlyDarkCoffee",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDarkCoffee-color-theme.json"
+            },
+            {
+                "label": "OnlyDarkCoffeeII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDarkCoffeeII-color-theme.json"
+            },
+            {
+                "label": "OnlyDarkGreenishBlue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDarkGreenishBlue-color-theme.json"
             }
         ]
     },

@@ -9,8 +9,8 @@
     "editorLineNumber.foreground": "#dddddd52",
     "editorLineNumber.activeForeground": "#ddd",
     "editorGroupHeader.tabsBackground": "#08090a",
-    "editor.selectionBackground": "#000",
-    "editor.inactiveSelectionBackground": "#000",
+    "editor.selectionBackground": "#2726269d",
+    "editor.inactiveSelectionBackground": "#2726269d",
     "editor.lineHighlightBackground": "#000",
     "editorIndentGuide.activeBackground": "#a0a0a071",
     "editor.findMatchBackground": "#0fe9582a",
@@ -38,14 +38,14 @@
     "input.border": "#000",
     "input.placeholderForeground": "#fff",
     "focusBorder": "#110b1b",
-    "button.background": "#08090a",
+    "button.background": "#272626e1",
     "tab.activeBorder": "#08090a",
     "tab.activeBorderTop": "#08090a",
     "tab.border": "#08090a",
     "tab.activeForeground": "#fff5e3",
     "notifications.background": "#000",
     "quickInput.background": "#000",
-    "list.hoverBackground": "#14141467",
+    "list.hoverBackground": "#272626e1",
     "list.inactiveSelectionBackground": "#141414",
     "settings.textInputBackground": "#08090a",
     "settings.checkboxBackground": "#08090a",
@@ -68,9 +68,22 @@
     "terminal.ansiRed": "#FB543F",
     "terminal.ansiWhite": "#A89984",
     "terminal.ansiYellow": "#FAC03B",
-    "editor.hoverHighlightBackground": "#000",
+    "editor.hoverHighlightBackground": "#272626e1",
     "editorHoverWidget.background": "#000",
-    "list.activeSelectionBackground": "#000"
+    "list.activeSelectionBackground": "#272626e1",
+    
+    "sideBar.border": "#141414",//08151d
+		"sideBarSectionHeader.border": "#141414",
+		"activityBar.border": "#141414",
+		"activityBar.activeBorder": "#141414",
+    "menu.border": "#161616",
+    "panel.border": "#161616",
+    "statusBar.border": "#141414",
+    "notifications.border": "#111111",
+
+    "editorCursor.foreground": "#ddd",
+    "terminalCursor.foreground": "#ddd",
+    "editorGutter.background": "#000",//10222d
   },
   "tokenColors": [
     {
