@@ -1,5 +1,19 @@
 # Only Dark
 
+# New Themes!
+Only Dark Coffee and CoffeeII
+![This is an image](https://github.com/yesomac/only_dark/blob/main/only_darkcoffee.png?raw=true)
+
+![This is an image](https://github.com/yesomac/only_dark/blob/main/only_darkcoffeeII.png?raw=true)
+
+Only Dark Purple
+![This is an image](https://github.com/yesomac/only_dark/blob/main/only_darkpurple.png?raw=true)
+
+Only Dark GreenishBlue
+![This is an image](https://github.com/yesomac/only_dark/blob/main/only_darkGB.png?raw=true)
+
+----
+
 Only Dark
 ![This is an Image](https://github.com/yesomac/only_dark/blob/main/only_dark.png?raw=true)
 
@@ -20,3 +34,23 @@ Only Dark BlueHaze
 
 
 ![This is an Image](https://github.com/yesomac/only_dark/blob/main/only-dark-bluee.png?raw=true)
+
+---
+Font: JetBrains Mono - https://www.jetbrains.com/lp/mono/
+
+Icons: Simple Icons - https://marketplace.visualstudio.com/items?itemName=Comdec.simple-icons
+
+---
+More Themes
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.inspiration
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.grayspace
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.soberTheme
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.darkspace
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.morita
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.purplespace
