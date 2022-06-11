@@ -25,57 +25,57 @@
     "contributes": {
         "themes": [
             {
-                "label": "OnlyDark",
+                "label": "Only Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDark-color-theme.json"
             },
             {
-                "label": "OnlyDark II",
+                "label": "Only Dark II",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkII-color-theme.json"
             },
             {
-                "label": "OnlyDark III",
+                "label": "Only Dark III",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkIII-color-theme.json"
             },
             {
-                "label": "OnlyDarkLight",
+                "label": "Only Dark Light",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkLight-color-theme.json"
             },
             {
-                "label": "OnlyDarkOrange",
+                "label": "Only Dark Orange",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkBrownOrange-color-theme.json"
             },
             {
-                "label": "OnlyDarkGreen",
+                "label": "Only Dark Green",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkGreen-color-theme.json"
             },
             {
-                "label": "OnlyDarkBlueHaze",
+                "label": "Only Dark BlueHaze",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkBlueHaze-color-theme.json"
             },
             {
-                "label": "OnlyDarkPurple",
+                "label": "Only Dark Purple",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkPurple-color-theme.json"
             },
             {
-                "label": "OnlyDarkCoffee",
+                "label": "Only Dark Coffee",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkCoffee-color-theme.json"
             },
             {
-                "label": "OnlyDarkCoffeeII",
+                "label": "Only Dark Coffee II",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkCoffeeII-color-theme.json"
             },
             {
-                "label": "OnlyDarkGreenishBlue",
+                "label": "Only Dark Greenish Blue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkGreenishBlue-color-theme.json"
             }

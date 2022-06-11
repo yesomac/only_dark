@@ -1,23 +1,15 @@
-# Only Dark
+# **Only Dark**
 
-# New Themes!
-Only Dark Coffee and CoffeeII
-![This is an image](https://github.com/yesomac/only_dark/blob/main/only_darkcoffee.png?raw=true)
-
-![This is an image](https://github.com/yesomac/only_dark/blob/main/only_darkcoffeeII.png?raw=true)
-
-Only Dark Purple
-![This is an image](https://github.com/yesomac/only_dark/blob/main/only_darkpurple.png?raw=true)
-
-Only Dark GreenishBlue
-![This is an image](https://github.com/yesomac/only_dark/blob/main/only_darkGB.png?raw=true)
+## *New Themes!*
+Only Dark III
+![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_III.png?raw=true)
 
 ----
 
 Only Dark
 ![This is an Image](https://github.com/yesomac/only_dark/blob/main/only_dark.png?raw=true)
 
-
+Only Dark II
 ![This is an Image](https://github.com/yesomac/only_dark/blob/main/only_darkII.png?raw=true)
 
 Only Dark Light
@@ -34,6 +26,17 @@ Only Dark BlueHaze
 
 
 ![This is an Image](https://github.com/yesomac/only_dark/blob/main/only-dark-bluee.png?raw=true)
+
+Only Dark Coffee and CoffeeII
+![This is an image](https://github.com/yesomac/only_dark/blob/main/only_darkcoffee.png?raw=true)
+
+![This is an image](https://github.com/yesomac/only_dark/blob/main/only_darkcoffeeII.png?raw=true)
+
+Only Dark Purple
+![This is an image](https://github.com/yesomac/only_dark/blob/main/only_darkpurple.png?raw=true)
+
+Only Dark GreenishBlue
+![This is an image](https://github.com/yesomac/only_dark/blob/main/only_darkGB.png?raw=true)
 
 ---
 Font: JetBrains Mono - https://www.jetbrains.com/lp/mono/
