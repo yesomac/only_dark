@@ -57,3 +57,7 @@ More Themes
 * https://marketplace.visualstudio.com/items?itemName=YesCode.morita
 
 * https://marketplace.visualstudio.com/items?itemName=YesCode.purplespace
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.neutral
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.shadesTheme
