@@ -7,6 +7,9 @@ Only Dark IV
 Only Dark V
 ![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_V.png?raw=true)
 
+Only Dark VI
+![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_VI.png?raw=true)
+
 ----
 
 Only Dark
