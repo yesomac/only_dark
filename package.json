@@ -46,6 +46,11 @@
                 "path": "./themes/OnlyDarkIV-color-theme.json"
             },
             {
+                "label": "Only Dark V",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDarkV-color-theme.json"
+            },
+            {
                 "label": "Only Dark Light",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkLight-color-theme.json"
