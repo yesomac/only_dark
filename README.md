@@ -1,8 +1,8 @@
 # **Only Dark**
 
 ## *New Themes!*
-Only Dark III
-![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_III.png?raw=true)
+Only Dark IV
+![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_IV.png?raw=true)
 
 ----
 
@@ -11,6 +11,9 @@ Only Dark
 
 Only Dark II
 ![This is an Image](https://github.com/yesomac/only_dark/blob/main/img/only_darkII.png?raw=true)
+
+Only Dark III
+![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_III.png?raw=true)
 
 Only Dark Light
 ![This is an Image](https://github.com/yesomac/only_dark/blob/main/img/only_dark-light.png?raw=true)
