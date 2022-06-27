@@ -41,7 +41,7 @@
     "button.background": "#5b1d6e",
     "tab.activeBorder": "#12151b",
     "tab.activeBorderTop": "#a43ac4",
-    "tab.border": "#421650b0",
+    "tab.border": "#43165048",
     "tab.activeForeground": "#fff",
     "notifications.background": "#12151b",
     "notifications.foreground": "#fff",
@@ -119,18 +119,14 @@
     "button.hoverBackground": "#9e0d6ea1",
     "button.secondaryForeground": "#ddd",
     "button.secondaryHoverBackground": "#240433",
-
     //new
     "button.border": "#c578ddb0",
-    "sideBar.border": "#431650",
-    "titleBar.border": "#431650",
+    "titleBar.border": "#4316508a",
     "checkbox.border": "#d37beeb0",
     "dropdown.border": "#9868a7b0",
-    "terminal.border": "#431650",
-    "statusBar.border": "#431650",
-    "activityBar.border": "#431650",
+    "activityBar.border": "#43165070",
     "editorInfo.border": "#7a478a8e",
-    "editorGroup.border": "#421650b0",
+    "editorGroup.border": "#431650",
     "settings.headerBorder": "#431650",
     "settings.sashBorder": "#431650",
     "settings.checkboxBorder": "#a955c2a1",
@@ -138,25 +134,22 @@
     "settings.textInputBorder": "#661e7c",
     "settings.dropdownBorder": "#611f75cc",
     "tab.unfocusedHoverBorder": "#d348fa",
-    "tab.unfocusedActiveBorder": "#ba40dfbb",
+    "tab.unfocusedActiveBorder": "#ba40df70",
     "settings.focusedRowBorder": "#8a31a5",
     "inputOption.activeBorder": "#9c51b39d",
     "input.foreground": "#db9eee",
     "inputOption.activeBackground": "#591c6bfb",
     "inputOption.activeForeground": "#ebd5f1",
     "settings.numberInputBorder": "#421650b0",
-    "editorGroupHeader.tabsBorder": "#431650",
-    "tab.unfocusedActiveBorderTop": "#b840ddbe",
-    "sideBarSectionHeader.border": "#43165036",
-
-    "panel.background": "#18011fa1",
+    "editorGroupHeader.tabsBorder": "#4316508c",
+    "tab.unfocusedActiveBorderTop": "#b840dd7e",
+    // "sideBarSectionHeader.border": "#43165036",
+    "panel.background": "#02010ea1",
     "panelTitle.activeBorder": "#c348e9dc",
     "panelTitle.activeForeground": "#fef9ffb0",
     "panelTitle.inactiveForeground": "#eec5f7b0",
-
     "widget.shadow": "#421650b0",
     "titleBar.inactiveBackground": "#14011ab0",
-
     "menubar.selectionBackground": "#421650b0",
     "menubar.selectionForeground": "#e8c6f3b0",
     "menu.separatorBackground": "#8c599bb0"
@@ -304,7 +297,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#f0a185"
+        "foreground": "#eeaf99"
       }
     },
     {
