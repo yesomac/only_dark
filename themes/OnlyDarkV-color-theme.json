@@ -180,7 +180,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#6eb7ad"
+        "foreground": "#c65964"
       }
     },
     {
@@ -230,7 +230,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#a682cf"
+        "foreground": "#cfbf7c"
       }
     },
     {
@@ -254,7 +254,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#c65964"
+        "foreground": "#6eb7ad"
       }
     },
     {
@@ -289,7 +289,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#cfbf7c"
+        "foreground": "#a682cf"
       }
     },
     {
