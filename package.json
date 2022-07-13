@@ -2,7 +2,7 @@
     "name": "only-dark-theme",
     "displayName": "Only Dark Theme",
     "description": "",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -64,6 +64,11 @@
                 "label": "Only Dark VIII",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkVIII-color-theme.json"
+            },
+            {
+                "label": "Only Dark IX",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDark-IX-color-theme.json"
             },
             {
                 "label": "Only Dark Light",
