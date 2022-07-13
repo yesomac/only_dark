@@ -1,14 +1,8 @@
 # **Only Dark**
 
-## *New Themes!*
-Only Dark IV
-![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_IV.png?raw=true)
-
-Only Dark V
-![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_V.png?raw=true)
-
-Only Dark VI
-![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_VI.png?raw=true)
+## *New Theme!*
+Only Dark IX
+![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_IX.png?raw=true)
 
 ----
 
@@ -46,6 +40,15 @@ Only Dark Purple
 
 Only Dark GreenishBlue
 ![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_darkGB.png?raw=true)
+
+Only Dark IV
+![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_IV.png?raw=true)
+
+Only Dark V
+![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_V.png?raw=true)
+
+Only Dark VI
+![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_VI.png?raw=true)
 
 ---
 Font: JetBrains Mono - https://www.jetbrains.com/lp/mono/
