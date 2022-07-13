@@ -190,7 +190,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#eebdd4"
+        "foreground": "#d86b9e"
       }
     },
     {
@@ -220,7 +220,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#00C6B5"
+        "foreground": "#00c6b5b4"
       }
     },
     {
@@ -240,7 +240,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#d2c4f3"
+        "foreground": "#d2c4f3ce"
       }
     },
     {
@@ -251,7 +251,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#ecc198"
+        "foreground": "#ecc098e5"
       }
     },
     {
@@ -264,7 +264,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#e6eb9b"
+        "foreground": "#eebdd4"
       }
     },
     {
@@ -299,7 +299,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#95f7aa"
+        "foreground": "#f7cd95"
       }
     },
     {
