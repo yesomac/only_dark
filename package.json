@@ -76,6 +76,21 @@
                 "path": "./themes/OnlyDark-X-color-theme.json"
             },
             {
+                "label": "Only Dark XI",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDark-XI-color-theme.json"
+            },
+            {
+                "label": "Only Dark XII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDark-XII-color-theme.json"
+            },
+            {
+                "label": "Only Dark XIII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDark-XIII-color-theme.json"
+            },
+            {
                 "label": "Only Dark Light",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkLight-color-theme.json"
