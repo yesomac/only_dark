@@ -1,6 +1,6 @@
 # **Only Dark**
 
-## *New Theme!*
+### *New Theme!*
 Only Dark IX
 ![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only-dark-sober.png?raw=true)
 
