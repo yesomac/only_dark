@@ -2,74 +2,65 @@
 
 ## *New Theme!*
 Only Dark IX
-![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_IX.png?raw=true)
+![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only-dark-sober.png?raw=true)
 
 ----
 
-Only Dark
+### Only Dark
 ![This is an Image](https://github.com/yesomac/only_dark/blob/main/img/only_dark.png?raw=true)
 
-Only Dark II
+### Only Dark II
 ![This is an Image](https://github.com/yesomac/only_dark/blob/main/img/only_darkII.png?raw=true)
 
-Only Dark III
+### Only Dark III
 ![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_III.png?raw=true)
 
-Only Dark Light
+### Only Dark Light
 ![This is an Image](https://github.com/yesomac/only_dark/blob/main/img/only_dark-light.png?raw=true)
 
-Only Dark Green
+### Only Dark Green
 ![This is an Image](https://github.com/yesomac/only_dark/blob/main/img/only_darkgreen.png?raw=true)
 
-Only Dark BrownOrange
-![This is an Image](https://github.com/yesomac/only_dark/blob/main/img/only_darkorange.png?raw=true)
-
-Only Dark BlueHaze
-![This is an Image](https://github.com/yesomac/only_dark/blob/main/img/only-dark-blue.png?raw=true)
-
-
-![This is an Image](https://github.com/yesomac/only_dark/blob/main/img/only-dark-bluee.png?raw=true)
-
-Only Dark Coffee and CoffeeII
-![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_darkcoffee.png?raw=true)
-
-![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_darkcoffeeII.png?raw=true)
-
-Only Dark Purple
-![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_darkpurple.png?raw=true)
-
-Only Dark GreenishBlue
-![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_darkGB.png?raw=true)
-
-Only Dark IV
+### Only Dark IV
 ![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_IV.png?raw=true)
 
-Only Dark V
-![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_V.png?raw=true)
+### Only Dark IX
+![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_IX.png?raw=true)
 
-Only Dark VI
-![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_VI.png?raw=true)
+**Fonts:** 
 
----
-Font: JetBrains Mono - https://www.jetbrains.com/lp/mono/
+  * Comic Mono - https://dtinth.github.io/comic-mono-font/
 
-Icons: Simple Icons - https://marketplace.visualstudio.com/items?itemName=Comdec.simple-icons
+  * JetBrains Mono - https://www.jetbrains.com/lp/mono/
+
+**Icons:** 
+  * Symbols - https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols
+
+  * Simple Icons - https://marketplace.visualstudio.com/items?itemName=Comdec.simple-icons
 
 ---
 More Themes
 
-* https://marketplace.visualstudio.com/items?itemName=YesCode.inspiration
+* Inspiration - https://marketplace.visualstudio.com/items?itemName=YesCode.inspiration
 
-* https://marketplace.visualstudio.com/items?itemName=YesCode.grayspace
+* Shades https://marketplace.visualstudio.com/items?itemName=YesCode.shadesTheme
 
-* https://marketplace.visualstudio.com/items?itemName=YesCode.soberTheme
+* GraySpace https://marketplace.visualstudio.com/items?itemName=YesCode.grayspace
 
-* https://marketplace.visualstudio.com/items?itemName=YesCode.darkspace
+* PurpleSpace https://marketplace.visualstudio.com/items?itemName=YesCode.purplespace
 
-* https://marketplace.visualstudio.com/items?itemName=YesCode.morita
+* OnlyDark Theme https://marketplace.visualstudio.com/items?itemName=YesCode.only-dark-theme
 
-* https://marketplace.visualstudio.com/items?itemName=YesCode.purplespace
+* SoberTheme https://marketplace.visualstudio.com/items?itemName=YesCode.soberTheme
 
-* https://marketplace.visualstudio.com/items?itemName=YesCode.neutral
+* GreenSpace https://marketplace.visualstudio.com/items?itemName=YesCode.greenspace
 
-* https://marketplace.visualstudio.com/items?itemName=YesCode.shadesTheme
+* Neutral https://marketplace.visualstudio.com/items?itemName=YesCode.neutral
+
+* Morita https://marketplace.visualstudio.com/items?itemName=YesCode.morita
+
+* DarkSpace https://marketplace.visualstudio.com/items?itemName=YesCode.darkspace
+
+* BlueSpace https://marketplace.visualstudio.com/items?itemName=YesCode.bluespace
+
+* TwentyFour https://marketplace.visualstudio.com/items?itemName=YesCode.twentyFour
