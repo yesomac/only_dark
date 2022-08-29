@@ -134,6 +134,16 @@
                 "label": "Only Dark Sober",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkSober-II-color-theme.json"
+            },
+            {
+                "label": "Only Dark Sober II",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDarkSober-III-color-theme.json"
+            },
+            {
+                "label": "Only Dark Sober IV",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDarkSober-IV-color-theme.json"
             }
         ]
     },
