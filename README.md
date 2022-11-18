@@ -1,5 +1,5 @@
 # **Only Dark**
-![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only-dark-bordere.png?raw=true)
+![This is an image](https://github.com/yesomac/only_dark/blob/main/img/img/odbordere.png?raw=true)
 #
 
 
