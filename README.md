@@ -1,7 +1,15 @@
 # **Only Dark**
+![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only-dark-bordere.png?raw=true)
+#
 
-### *New Theme!*
-Only Dark IX
+
+![This is an image](https://github.com/yesomac/only_dark/blob/main/img/img/od1.jpg?raw=true)
+#
+
+![This is an image](https://github.com/yesomac/only_dark/blob/main/img/img/od2.jpg?raw=true)
+
+
+<!-- Only Dark IX
 ![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only-dark-sober.png?raw=true)
 
 ----
@@ -25,18 +33,13 @@ Only Dark IX
 ![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_IV.png?raw=true)
 
 ### Only Dark IX
-![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_IX.png?raw=true)
+![This is an image](https://github.com/yesomac/only_dark/blob/main/img/only_dark_IX.png?raw=true) -->
 
 **Fonts:** 
 
   * Comic Mono - https://dtinth.github.io/comic-mono-font/
 
   * JetBrains Mono - https://www.jetbrains.com/lp/mono/
-
-**Icons:** 
-  * Symbols - https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols
-
-  * Simple Icons - https://marketplace.visualstudio.com/items?itemName=Comdec.simple-icons
 
 ---
 More Themes
