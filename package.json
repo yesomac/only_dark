@@ -2,23 +2,13 @@
     "name": "only-dark-theme",
     "displayName": "Only Dark Theme",
     "description": "",
-    "version": "0.0.15",
+    "version": "0.0.16",
     "engines": {
         "vscode": "^1.66.0"
     },
     "keywords": [
         "Themes",
-        "OnlyDark",
-        "OnlyDark II",
-        "OnlyDark IV",
-        "OnlyDarkLight",
-        "OnlyDark Brown Orange",
-        "OnlyDark Green",
-        "OnlyDarkBlueHaze",
-        "OnlyDarkPurple",
-        "OnlyDarkCoffee",
-        "OnlyDarkCoffeeII",
-        "OnlyDarkGreenishBlue"
+        "OnlyDark"
     ],
     "categories": [
         "Themes"
@@ -159,6 +149,11 @@
                 "label": "Only Dark Sober IV",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkSober-IV-color-theme.json"
+            },
+            {
+                "label": "Only Dark Bordere",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OnlyDarkSober-Bordere-color-theme.json"
             }
         ]
     },
